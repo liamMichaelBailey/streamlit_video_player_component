@@ -20,4 +20,6 @@ Takes a dictionary of video URLs and creates a video player with:
 
 ```bash
 pip install streamlit
+```
+```bash
 streamlit run main.py
