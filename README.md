@@ -1,14 +1,20 @@
-# SkillCorner Video Player Component
+![SkillCorner Logo](skillcorner_logo.png)
+# Streamlit Video Player Component
 
-A Streamlit component for playing video clip playlists with download functionality.
+A Streamlit component for playing video playlists with download functionality.
 
-## Features
+## Demo
 
-- **Video playlist player** with autoplay
-- **Download individual clips** or **all clips as ZIP**
-- **Enable/disable clips** in playlist
-- **Light/dark theme** support
-- **Responsive design**
+Try it live: **[video-player-component.streamlit.app](https://video-player-component.streamlit.app)**
+
+## What it does
+
+Takes a dictionary of video URLs and creates a video player with:
+- Auto-playing playlist
+- Enable/disable individual clips
+- Download clips individually or as ZIP
+- Progress bar and basic controls
+- Collapsible playlist sidebar
 
 ## Installation
 
