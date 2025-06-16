@@ -16,7 +16,8 @@ Takes a dictionary of video URLs and creates a video player with:
 - Progress bar and basic controls
 - Collapsible playlist sidebar
 
-## Installation
+## Run the demo
 
 ```bash
 pip install streamlit
+streamlit run main.py
